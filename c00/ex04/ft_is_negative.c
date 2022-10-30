@@ -6,7 +6,7 @@
 /*   By: srossatt <srossatt@student.42malaga.com>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/21 14:17:00 by srossatt          #+#    #+#             */
-/*   Updated: 2022/10/21 14:25:26 by srossatt         ###   ########.fr       */
+/*   Updated: 2022/10/30 20:38:32 by srossatt         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,11 +19,11 @@ void	ft_is_negative(int n)
 
 	a = 'N';
 	b = 'P';
-	if (n < '0')
+	if (n < 0)
 	{
 		write (1, &a, 1);
 	}
-	if (n >= '0')
+	if (n >= 0)
 	{
 		write (1, &b, 1);
 	}
