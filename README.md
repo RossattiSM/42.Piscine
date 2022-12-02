@@ -15,7 +15,8 @@ is the selection process for becoming a 42's student.
 	The first days of piscine are focused on learning shell commands to know how to navigate through the terminal.
   
 # C Language
-	It is the primary language learned at the piscine: creating functions and programs, dealing with variables, pointers and arrays.
+	It is the primary language learned at the piscine: creating functions and programs, 
+	dealing with variables, pointers and arrays.
 
 # Git
 	All projects are submitted via a remote git repository, which demands students to learn the system.
