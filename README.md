@@ -7,11 +7,6 @@ This repository contains the projects I made during the 42 Málaga C Piscine Boo
 no classrooms, peer to peer learning, with a methodology that develops both computing and life skills. 
 The 42 cursus is free for whoever is approved in its selection process. The "C Piscine", a 26-day C programming bootcamp,
 is the selection process for becoming a 42's student.
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Hard Skills
 
