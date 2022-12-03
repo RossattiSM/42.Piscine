@@ -79,7 +79,7 @@ is the selection process for becoming a 42's student.
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> - Stores the result of the division and modules of two values in Div and Mod. <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex04/ft_ultimate_div_mod.c"> ft_ultimate_div_mod </a> - Swaps the results of the division and module of two values. <br> </li>
 <li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex05/ft_putstr.c"> ft_putstr </a> - Prints a string. <br> </li>
-<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex06/ft_strlen.c"> ft_strlen </a> - Prints the size of a string. <br> </li>
+<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex06/ft_strlen.c"> ft_strlen </a> - Gets the length of a string. <br> </li>
 <li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex07/ft_rev_int_tab.c"> ft_rev_int_tab </a> - Prints the reverse of a string. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex08/ft_sort_int_tab.c"> ft_sort_int_tab </a> - Prints the values of a string in descending order. <br> </li>
 
@@ -99,43 +99,37 @@ is the selection process for becoming a 42's student.
 <li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex07/ft_strupcase.c"> ft_strupcase.c </a> -  Converts the lowercases in the string into uppercases. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex08/ft_strlowcase.c"> ft_strlowcase </a> -  Converts the uppercases in the string into lowercases.. <br> </li>
 <li> ex09: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex09/ft_strcapitalize.c"> ft_strcapitalize </a> - Converts every first character of every word in the string into uppercase. <br> </li>
-<li> ex10: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex10: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex10/ft_strlcpy.c"> ft_strlcpy </a> -  Returns the length of the destination string. <br> </li>
 </ul>
 <br> 
 
 ``` C 03 ``` <br>
 
 <ul> 
-<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex00/ft_strcmp.c"> ft_strcmp </a> -  Returns the value of the comparison between two strings. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex01/ft_strncmp.c"> ft_strncmp </a> - Returns the value of the comparison between 'n' characters in two strings. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex02/ft_strcat.c"> ft_strcat </a> - Concatenates the source string to the destination string. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex03/ft_strncat.c"> ft_strncat </a> - Concatenates 'n' characters of the source string to the destination string. <br> </li>
+<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex04/ft_strstr.c"> ft_strstr </a> - Returns the pointer to the first occurrence of the given substring in the source string. <br> </li>
 </ul>
 <br> 
 
 ``` C 04 ``` <br>
 
 <ul> 
-<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex00/ft_strlen.c"> ft_strlen </a> - Gets the length of a string. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex01/ft_putstr.c"> ft_putstr </a> - Prints a string. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex02/ft_putnbr.c"> ft_putnbr </a> - Prints all possible digits of an integer. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex03/ft_atoi.c"> ft_atoi </a> - Converts a string into an integer. <br> </li>
 </ul>
 <br> 
 
 ``` C 06 ``` <br>
 
 <ul> 
-<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
-<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
-<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c06/ex00/ft_print_program_name.c"> ft_print_program_name </a> -  A program that prints its name. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c06/ex01/ft_print_params.c"> ft_print_params </a> - A program that prints its parameters. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c06/ex02/ft_rev_params.c"> ft_rev_params </a> - A program that prints its parameters in reverse. <br> </li>
 </ul>
 <br> 
 
