@@ -87,7 +87,56 @@ is the selection process for becoming a 42's student.
 <br> 
 	
 ``` C 02 ``` <br>
-	
+
+<ul> 
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex00/ft_strcpy.c">ft_strcpy </a> - Copies the source string to the destination string. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex01/ft_strncpy.c"> ft_strncpy </a> - Copies 'n' characters of the source string to the destination string. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex02/ft_str_is_alpha.c"> ft_str_is_alpha </a> - Checks whether the string has alphabetical characters or not. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex03/ft_str_is_numeric.c"> ft_str_is_numeric </a> - Checks whether the string has digits or not. <br> </li>
+<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex04/ft_str_is_lowercase.c"> ft_str_is_lowercase </a> - Checks whether the string has lowercases or not. <br> </li>
+<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex05/ft_str_is_uppercase.c"> ft_str_is_uppercase </a> -  Checks whether the string has uppercases or not. <br> </li>
+<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex06/ft_str_is_printable.c"> ft_str_is_printable </a> - Checks whether the string has printable characters or not.. <br> </li>
+<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex07/ft_strupcase.c"> ft_strupcase.c </a> -  Converts the lowercases in the string into uppercases. <br> </li>
+<li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex08/ft_strlowcase.c"> ft_strlowcase </a> -  Converts the uppercases in the string into lowercases.. <br> </li>
+<li> ex09: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex09/ft_strcapitalize.c"> ft_strcapitalize </a> - Converts every first character of every word in the string into uppercase, unless is followed by a digit. <br> </li>
+<li> ex10: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+</ul>
+<br> 
+
+``` C 03 ``` <br>
+
+<ul> 
+<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+</ul>
+<br> 
+
+``` C 04 ``` <br>
+
+<ul> 
+<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+</ul>
+<br> 
+
+``` C 06 ``` <br>
+
+<ul> 
+<li> ex00: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex01: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex02: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex03: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+<li> ex04: <a href=""> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex05: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
+</ul>
 <br> 
 
 ## Curriculum
