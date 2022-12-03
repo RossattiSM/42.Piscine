@@ -55,9 +55,9 @@ is the selection process for becoming a 42's student.
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Prints the alphabet in reverse <br> </li>
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Prints numbers 0 to 9 <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Prints 'N' if the int passed as parameter is negative, otherwise it prints 'P'.<br> </li>
-<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits. The 1st is lower than the 2nd, and the 2nd is lower than the 3rd. <br> </li>
+<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits. <br> </li>
 <li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers separated by a comma and space. <br> </li>
-<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an int <br> </li>
+<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an integer. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Prints all possible combinations of n different digits in ascending order. <br> </li>
 
 ## Curriculum
