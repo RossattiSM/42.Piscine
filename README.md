@@ -25,32 +25,27 @@ is the selection process for becoming a former student.
 
 ```
 # Shell
-	The first days of piscine are focused on learning shell commands 
-	to know how to navigate through the terminal.
+	The first days of piscine are focused on learning shell commands to navigate through the terminal.
   
 # C Language
 	It is the primary language learned at the piscine: 
 	creating functions and programs, dealing with variables, pointers and arrays.
 
 # Git
-	All projects are submitted via a remote git repository, 
-	which demands students to learn the system.
+	All projects are submitted via a remote git repository.
 ```
 
 ## Soft Skills
 
 ```
 # Self-learning
-	At 42, there are no teachers whatsoever; 
-	the learning process is based on googling and enquiring your classmates.
+	At 42, the learning process is based on googling and enquiring your classmates.
   
 # Teamwork
-	In a peer to peer environment you learn the importance of your classmates; 
-	you can count on them and they can count on you to push towards the same goal.
+	In a peer to peer environment you can count on your classmates and they can count on you.
   
 # Resilience
-	You have to learn to "swim" throughout the massive load of work 
-	demanded by the non-stop 26-day program.
+	Learning to "swim" through the massive -and sometimes cryptic- load of work is part of the process.
 ```
 
 
