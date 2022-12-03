@@ -44,23 +44,6 @@ is the selection process for becoming a 42's student.
 	You have to learn to "swim" throughout the massive load of work 
 	demanded by the non-stop 26-day program.
 ```
-## Projects Content
-
-``` Shell 00 ``` <br>
-<br> 
-``` Shell 01 ``` <br>
-<br> 
-``` C00  ``` <br> 
-<ul> 
-<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Prints a character <br> </li>
-<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Prints the alphabet <br> </li>
-<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Prints the alphabet in reverse <br> </li>
-<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Prints numbers 0 to 9 <br> </li>
-<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Prints 'N' if the int passed as parameter is negative, otherwise it prints 'P'.<br> </li>
-<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits. <br> </li>
-<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers separated by a comma and space. <br> </li>
-<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an integer. <br> </li>
-<li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Prints all possible combinations of n different digits in ascending order. <br> </li>
 
 ## Curriculum
 
@@ -80,3 +63,35 @@ The table below presents the C Piscine's curriculum completed by me.
 | <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c04"> C 04 </a>         |   C      | 70%  ✔️ |
 | <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c06"> C 06 </a>         |   C      | 70%  ✔️ |
 | Final    |   C      | 30%  ✔️ |
+
+## Projects Content
+
+``` C00  ``` <br> 
+<ul> 
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Prints a character <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Prints the alphabet <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Prints the alphabet in reverse <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Prints numbers 0 to 9 <br> </li>
+<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Prints 'N' if the int passed as parameter is negative, otherwise it prints 'P'.<br> </li>
+<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits. <br> </li>
+<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers separated by a comma and space. <br> </li>
+<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an integer. <br> </li>
+<li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Prints all possible combinations of n different digits in ascending order. <br> </li>
+</ul>
+<br> 
+
+``` C 01 ``` <br>
+
+<ul> 
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex00/ft_ft.c"> ft_ft </a> A pointer to 42. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex01/ft_ultimate_ft.c"> ft_ultimate_ft </a> A pointer to a pointer to a pointer... to 42. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_swap.c"> ft_swap </a> Swaps two values using a temporary variable. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> Stores the division and modules of two values in Mod and Div variables. <br> </li>
+
+</ul>	
+<br> 
+	
+``` C 02 ``` <br>
+	
+<br> 
+
