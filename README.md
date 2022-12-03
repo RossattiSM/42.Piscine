@@ -147,6 +147,10 @@ The table below presents the C Piscine's curriculum completed by me.
 
 <hr>
 
+## Testing
+
+The functions have been tested by Moulinette.
+
 ``` Thanks for visiting and reading my content. Let's connect! ```
 <p align="center"> 
 <a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
