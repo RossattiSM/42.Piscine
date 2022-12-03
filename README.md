@@ -12,7 +12,7 @@
 </p>
 
 # C Piscine
-This repository contains the projects I made during the 42 C Piscine Bootcamp in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
+This repository contains the projects I made during the C Piscine Bootcamp in 42 Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
 
 ## About 42
 
