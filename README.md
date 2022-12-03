@@ -60,8 +60,7 @@ is the selection process for becoming a former student.
 <li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers. <br> </li>
 <li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an integer. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Prints all possible combinations of n different digits in ascending order. <br> </li>
-</ul>
-<br> 
+</ul> 
 
 ``` C 01 ``` <br>
 
@@ -77,7 +76,6 @@ is the selection process for becoming a former student.
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex08/ft_sort_int_tab.c"> ft_sort_int_tab </a> - Prints the values of a string in descending order. <br> </li>
 
 </ul>	
-<br> 
 	
 ``` C 02 ``` <br>
 
@@ -94,7 +92,6 @@ is the selection process for becoming a former student.
 <li> ex09: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex09/ft_strcapitalize.c"> ft_strcapitalize </a> - Converts every first character of every word in the string into uppercase. <br> </li>
 <li> ex10: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex10/ft_strlcpy.c"> ft_strlcpy </a> -  Returns the length of the destination string. <br> </li>
 </ul>
-<br> 
 
 ``` C 03 ``` <br>
 
@@ -105,7 +102,6 @@ is the selection process for becoming a former student.
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex03/ft_strncat.c"> ft_strncat </a> - Concatenates 'n' characters of the source string to the destination string. <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c03/ex04/ft_strstr.c"> ft_strstr </a> - Returns the pointer to the first occurrence of the given substring in the source string. <br> </li>
 </ul>
-<br> 
 
 ``` C 04 ``` <br>
 
@@ -115,7 +111,6 @@ is the selection process for becoming a former student.
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex02/ft_putnbr.c"> ft_putnbr </a> - Prints all possible digits of an integer. <br> </li>
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex03/ft_atoi.c"> ft_atoi </a> - Converts a string into an integer. <br> </li>
 </ul>
-<br> 
 
 ``` C 06 ``` <br>
 
@@ -124,7 +119,6 @@ is the selection process for becoming a former student.
 <li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c06/ex01/ft_print_params.c"> ft_print_params </a> - A program that prints its parameters. <br> </li>
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c06/ex02/ft_rev_params.c"> ft_rev_params </a> - A program that prints its parameters in reverse. <br> </li>
 </ul>
-<br> 
 
 ## Curriculum
 
@@ -145,11 +139,11 @@ The table below presents the C Piscine's curriculum completed by me.
 | <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c06"> C 06 </a>         |   C      | 70%  ✔️ |
 | Final    |   C      | 30%  ✔️ |
 
-<hr>
-
 ## Testing
 
 The functions have been tested by Moulinette.
+
+<hr>
 
 ``` Thanks for visiting and reading my content. Let's connect! ```
 <p align="center"> 
