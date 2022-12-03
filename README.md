@@ -43,6 +43,21 @@ is the selection process for becoming a 42's student.
 	You have to learn to "swim" throughout the massive load of work 
 	demanded by the non-stop 26-day program.
 ```
+## Projects Content
+
+Shell 00
+Shell 01 
+<b> C00 </b>
+ex00: ft_putchar - Print a character
+ex01: ft_print_alphabet - Print the alphabet
+ex02: ft_print_reverse_alphabet - Print the alphabet in reverse
+ex03: ft_print_numbers - Print numbers 0 to 9
+ex04: ft_is_negative - Print numbers 9 to 0 
+ex05: ft_print_comb - Combine numbers into different double combinations
+ex06: ft_print_comb2 - Com
+ex07:
+ex08:
+ex09:
 
 ## Curriculum
 
@@ -50,7 +65,7 @@ The table below presents the C Piscine's curriculum completed by me.
 
 | Subject  | Language | Status   |
 | :------: | :------: | :------: |
-| Shell 00 |  Shell   | 100% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell00"> Shell 00 </a> |  Shell   | 100% ✔️ |
 | Shell 01 |  Shell   | 100% ✔️ |
 | Exam 00  |   C      | 16%  ❌ |
 | C 00     |   C      | 85%  ✔️ |
