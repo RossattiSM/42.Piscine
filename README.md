@@ -67,17 +67,14 @@ The table below presents the C Piscine's curriculum completed by me.
 | Subject  | Language | Status   |
 | :------: | :------: | :------: |
 | <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell00"> Shell 00 </a> |  Shell   | 100% ✔️ |
-| Shell 01 |  Shell   | 100% ✔️ |
-| Exam 00  |   C      | 16%  ❌ |
-| C 00     |   C      | 85%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell01"> Shell 01 </a> |  Shell   | 100% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c00">  C 00 </a>        |   C      | 85%  ✔️ |
 | Rush 00  |   C      | 116% ✔️ |
-| C 01     |   C      | 100% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c01"> C 01  </a>        |   C      | 100% ✔️ |
 | Exam 01  |   C      | 32%  ✔️ |
-| Rush 01  |   C      |  0%  ❌ |
-| C 02     |   C      | 75%  ✔️ |
-| C 03     |   C      | 50%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c02"> C 02 </a>         |   C      | 75%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c03"> C 03 </a>         |   C      | 50%  ✔️ |
 | Exam 02  |   C      | 28%  ✔️ |
-| C 04     |   C      | 70%  ✔️ |
-| C 05     |   C      | -- |
-| C 06     |   C      | 70%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c04"> C 04 </a>         |   C      | 70%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c06"> C 06 </a>         |   C      | 70%  ✔️ |
 | Final    |   C      | 30%  ✔️ |
