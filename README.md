@@ -64,7 +64,7 @@ is the selection process for becoming a 42's student.
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Prints numbers 0 to 9 <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Prints 'N' if the int passed as parameter is negative, otherwise it prints 'P'.<br> </li>
 <li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits. <br> </li>
-<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers separated by a comma and space. <br> </li>
+<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints all possible combinations of two different two-digit numbers. <br> </li>
 <li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Prints all possible digits of an integer. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Prints all possible combinations of n different digits in ascending order. <br> </li>
 </ul>
@@ -98,7 +98,7 @@ is the selection process for becoming a 42's student.
 <li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex06/ft_str_is_printable.c"> ft_str_is_printable </a> - Checks whether the string has printable characters or not.. <br> </li>
 <li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex07/ft_strupcase.c"> ft_strupcase.c </a> -  Converts the lowercases in the string into uppercases. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex08/ft_strlowcase.c"> ft_strlowcase </a> -  Converts the uppercases in the string into lowercases.. <br> </li>
-<li> ex09: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex09/ft_strcapitalize.c"> ft_strcapitalize </a> - Converts every first character of every word in the string into uppercase, unless is followed by a digit. <br> </li>
+<li> ex09: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c02/ex09/ft_strcapitalize.c"> ft_strcapitalize </a> - Converts every first character of every word in the string into uppercase. <br> </li>
 <li> ex10: <a href=""> ft_ultimate_ft </a> -  A pointer to 42. <br> </li>
 </ul>
 <br> 
