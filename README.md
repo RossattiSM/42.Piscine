@@ -3,6 +3,10 @@
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" height="200px" length="200px" /> 
 </p>
 
+<hr>
+
+![languages](https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge) ![size](https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge)
+
 # C Piscine
 This repository contains the projects I made during the 42 C Piscine Bootcamp in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
 
@@ -98,4 +102,4 @@ The table below presents the C Piscine's curriculum completed by me.
 
 <hr>
 
-![languages](https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge)
+``` Thanks for visiting and reading my content. ```
