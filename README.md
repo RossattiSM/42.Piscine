@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" height="200px" length="200px" />
+</p>
+
 # C Piscine - 42 Málaga
 This repository contains the projects I made during the 42 Málaga C Piscine Bootcamp, from Oct/17/2022 to Nov/11/2022.
 
@@ -7,10 +11,6 @@ This repository contains the projects I made during the 42 Málaga C Piscine Boo
 no classrooms, peer to peer learning, with a methodology that develops both computing and life skills. 
 The 42 cursus is free for whoever is approved in its selection process. The "C Piscine", a 26-day C programming bootcamp,
 is the selection process for becoming a 42's student.
-
-<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" />
-</p>
 
 ## Hard Skills
 
