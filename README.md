@@ -12,7 +12,7 @@
 </p>
 
 # C Piscine
-This repository contains the projects I made during the 42 C Piscine Bootcamp in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
+This repository contains the projects I made during the 42 C Piscine -Bootcamp- in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
 
 ## About 42
 
@@ -77,6 +77,7 @@ is the selection process for becoming a 42's student.
 <li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex01/ft_ultimate_ft.c"> ft_ultimate_ft </a> - A pointer to a pointer to a pointer... to 42. <br> </li>
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_swap.c"> ft_swap </a> - Swaps two values using a temporary variable. <br> </li>
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> - Stores the division and modules of two values in Mod and Div variables. <br> </li>
+<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex04/ft_ultimate_div_mod.c"> ft_ultimate_div_mod </a> - Swaps the results of the division and module of two values. <br> </li>
 
 </ul>	
 <br> 
