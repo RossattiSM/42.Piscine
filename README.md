@@ -1,3 +1,7 @@
+<p align="center"> 
+	<img src="C:\Users\sebuk\Desktop\CHIBI\header_004_.png" height="200px" length="200px" /> 
+</p>
+
 # C Piscine
 This repository contains the projects I made during the 42 C Piscine Bootcamp in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
 
