@@ -48,10 +48,10 @@ The table below presents the C Piscine's curriculum completed by me.
 
 <center>
 
-| #  | Subject  | Language | Status   |
-| -- | -------- | -------- | -------- |
-| 00 | Shell 00 |  Shell   | 100% ✔️ |
-| 01 | Shell 01 |  Shell   | 100% ✔️ |
-| 02 | C 00     |   C      | 85%  ✔️ |
+| #    | Subject  | Language | Status   |
+| :--: | :------: | :------: | -------: |
+| 00   | Shell 00 |  Shell   | 100% ✔️ |
+| 01   | Shell 01 |  Shell   | 100% ✔️ |
+| 02   | C 00     |   C      | 85%  ✔️ |
 
 </center>
