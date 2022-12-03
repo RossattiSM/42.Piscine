@@ -98,4 +98,4 @@ The table below presents the C Piscine's curriculum completed by me.
 
 <hr>
 
-![languages](https://gitlab/languages/count/:project+?gitlab_url=https%3A%2F%2Fgitlab.com)
+![languages](https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge)
