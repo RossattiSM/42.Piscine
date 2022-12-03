@@ -45,7 +45,7 @@ is the selection process for becoming a former student.
 	In a peer to peer environment you can count on your classmates and they can count on you.
   
 # Resilience
-	Learning to "swim" through the massive -and sometimes cryptic- load of work is part of the process.
+	Learning to "swim" through the big -and sometimes cryptic- amount of work is part of the process.
 ```
 
 
