@@ -76,8 +76,12 @@ is the selection process for becoming a 42's student.
 <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex00/ft_ft.c"> ft_ft </a> - A pointer to 42. <br> </li>
 <li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex01/ft_ultimate_ft.c"> ft_ultimate_ft </a> - A pointer to a pointer to a pointer... to 42. <br> </li>
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_swap.c"> ft_swap </a> - Swaps two values using a temporary variable. <br> </li>
-<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> - Stores the division and modules of two values in Mod and Div variables. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> - Stores the result of the division and modules of two values in the variables called Div and Mod. <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex04/ft_ultimate_div_mod.c"> ft_ultimate_div_mod </a> - Swaps the results of the division and module of two values. <br> </li>
+<li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex05/ft_putstr.c"> ft_putstr </a> - Prints a string. <br> </li>
+<li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex06/ft_strlen.c"> ft_strlen </a> - Prints the size of a string. <br> </li>
+<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex07/ft_rev_int_tab.c"> ft_rev_int_tab </a> - Prints the reverse of a string. <br> </li>
+<li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex08/ft_sort_int_tab.c"> ft_sort_int_tab </a> - Prints the values of a string in descending order. <br> </li>
 
 </ul>	
 <br> 
