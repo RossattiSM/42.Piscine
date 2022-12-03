@@ -46,8 +46,8 @@ is the selection process for becoming a 42's student.
 ```
 ## Projects Content
 
-Shell 00
-Shell 01 
+<b> Shell 00 </b> <br>
+<b> Shell 01 </b> <br>
 <b> C00 </b>
 ex00: ft_putchar - Print a character
 ex01: ft_print_alphabet - Print the alphabet
