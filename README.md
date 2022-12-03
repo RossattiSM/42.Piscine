@@ -50,7 +50,7 @@ is the selection process for becoming a 42's student.
 <b> <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell01"> Shell 01 </a> </b> <br>
 <b> <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c00"> C00 </a> </b> <br>
 <ul> 
-	<li> ``` ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a> ``` - Print a character <br> </li>
+	``` <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Print a character <br> </li> ```
 ex01: ft_print_alphabet - Print the alphabet <br>
 ex02: ft_print_reverse_alphabet - Print the alphabet in reverse <br>
 ex03: ft_print_numbers - Print numbers 0 to 9 <br>
