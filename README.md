@@ -46,17 +46,17 @@ is the selection process for becoming a 42's student.
 ```
 ## Projects Content
 
-<b> <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell00"> Shell 00 </a> </b> <br>
-<b> <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell01"> Shell 01 </a> </b> <br>
+``` Shell 00 ``` <br>
+``` Shell 01 ``` <br>
 ``` C00  ``` <br> 
 <ul> 
-	 <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Print a character <br> </li>
-ex01: ft_print_alphabet - Print the alphabet <br>
-ex02: ft_print_reverse_alphabet - Print the alphabet in reverse <br>
-ex03: ft_print_numbers - Print numbers 0 to 9 <br>
-ex04: ft_is_negative - Print numbers 9 to 0 <br>
-ex05: ft_print_comb - Combine numbers into different double combinations <br>
-ex06: ft_print_comb2 - Com
+	 <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Prints a character <br> </li>
+ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Prints the alphabet <br>
+ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Prints the alphabet in reverse <br>
+ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Prints numbers 0 to 9 <br>
+ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Prints 'N' if the int passed as parameter is negative, otherwise it prints 'P'.<br>
+ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Prints all unique combinations of three different digits so that, the first digit is lower than the second, and the second is lower than the third. <br>
+ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Prints in ascending order separated by a comma and space all possible combinations of two different two-digit numbers.
 ex07:
 ex08:
 ex09:
