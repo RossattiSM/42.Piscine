@@ -45,13 +45,10 @@ is the selection process for becoming a 42's student.
 <p align="center">
 The table below presents the C Piscine's curriculum completed by me.
 </p>
-
-<p align="center">
 	
-| #  | Subject  | Language | Status   |
-| -- | -------- | -------- | -------- |
-| 00 | Shell 00 |  Shell   | 100% ✔️ |
-| 01 | Shell 01 |  Shell   |
-| 02 | Shell 01 |   C      |
+				| #  | Subject  | Language | Status   |
+				| -- | -------- | -------- | -------- |
+				| 00 | Shell 00 |  Shell   | 100% ✔️ |
+				| 01 | Shell 01 |  Shell   | 100% ✔️
+				| 02 | C 00     |   C      |
 
-</p>
