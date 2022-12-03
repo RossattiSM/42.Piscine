@@ -42,16 +42,22 @@ is the selection process for becoming a 42's student.
 
 ## Curriculum
 
-<p align="center">
 The table below presents the C Piscine's curriculum completed by me.
-</p>
 
-<center>
-
-| #    | Subject  | Language | Status   |
-| :--: | :------: | :------: | -------: |
-| 00   | Shell 00 |  Shell   | 100% ✔️ |
-| 01   | Shell 01 |  Shell   | 100% ✔️ |
-| 02   | C 00     |   C      | 85%  ✔️ |
-
-</center>
+| Subject  | Language | Status   |
+| :------: | :------: | :------: |
+| Shell 00 |  Shell   | 100% ✔️ |
+| Shell 01 |  Shell   | 100% ✔️ |
+| Exam 00  |   C      | 16%  ❌ |
+| C 00     |   C      | 85%  ✔️ |
+| Rush 00  |   C      | 116% ✔️ |
+| C 01     |   C      | 100% ✔️ |
+| Exam 01  |   C      | 32%  ✔️ |
+| Rush 01  |   C      |  0%  ❌ |
+| C 02     |   C      | 75%  ✔️ |
+| C 03     |   C      | 50%  ✔️ |
+| Exam 02  |   C      | 28%  ✔️ |
+| C 04     |   C      | 70%  ✔️ |
+| C 05     |   C      | -- |
+| C 06     |   C      | 70%  ✔️ |
+| Final    |   C      | 30%  ✔️ |
