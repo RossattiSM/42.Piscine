@@ -36,8 +36,8 @@ is the selection process for becoming a 42's student.
 	the learning process is based on googling and enquiring your classmates.
   
 # Teamwork
-	In a peer to peer environment you learn to be aware of the importance of your classmates; 
-	you can count on them and also they can count on you to work together and push towards the same goal.
+	In a peer to peer environment you learn the importance of your classmates; 
+	you can count on them and they can count on you to push towards the same goal.
   
 # Resilience
 	You have to learn to "swim" throughout the massive load of work 
