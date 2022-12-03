@@ -141,7 +141,7 @@ The table below presents the C Piscine's curriculum completed by me.
 
 ## Testing
 
-The functions have been tested by Moulinette.
+All the functions have been tested by Moulinette.
 
 <hr>
 
