@@ -42,6 +42,8 @@ is the selection process for becoming a 42's student.
 
 ## Curriculum
 
+<p align="center"> 
+	
 The table below presents the C Piscine's curriculum completed by me.
 
 | #  | Subject  | Language | Status   |
@@ -49,3 +51,5 @@ The table below presents the C Piscine's curriculum completed by me.
 | 00 | Shell 00 |  Shell   | 100% ✔️ |
 | 01 | Shell 01 |  Shell   |
 | 02 | Shell 01 |   C      |
+
+	</p>
