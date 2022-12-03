@@ -4,9 +4,8 @@
 </p>
 
 <hr>
-<center> 
+
 ![languages](https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge) ![size](https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge)
-</center>
 
 # C Piscine
 This repository contains the projects I made during the 42 C Piscine Bootcamp in Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
