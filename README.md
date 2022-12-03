@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" height="200px" length="200px" />
-</p>
-
+<p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" height="200px" length="200px" /> </p>
 # C Piscine - 42 Málaga
 This repository contains the projects I made during the 42 Málaga C Piscine Bootcamp, from Oct/17/2022 to Nov/11/2022.
 
