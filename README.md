@@ -47,9 +47,9 @@ is the selection process for becoming a 42's student.
 ## Projects Content
 
 ``` Shell 00 ``` <br>
-<hr /> 
+<br> 
 ``` Shell 01 ``` <br>
-<hr /> 
+<br> 
 ``` C00  ``` <br> 
 <ul> 
 <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Prints a character <br> </li>
