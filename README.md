@@ -149,7 +149,6 @@ The table below presents the C Piscine's curriculum completed by me.
 
 <hr>
 
-``` Thanks for visiting and reading my content. Let's connect! ```
-
-<a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://www.linkedin.com/in/silvinarossatti/" alt="linkedin badge"> </a>
+Thanks for visiting and reading my content. Let's connect!
+<a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
 <a href="https://github.com/silvinarossatti"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
