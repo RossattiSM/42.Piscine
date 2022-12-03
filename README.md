@@ -45,24 +45,6 @@ is the selection process for becoming a 42's student.
 	demanded by the non-stop 26-day program.
 ```
 
-## Curriculum
-
-The table below presents the C Piscine's curriculum completed by me.
-
-| Subject  | Language | Status   |
-| :------: | :------: | :------: |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell00"> Shell 00 </a> |  Shell   | 100% ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell01"> Shell 01 </a> |  Shell   | 100% ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c00">  C 00 </a>        |   C      | 85%  ✔️ |
-| Rush 00  |   C      | 116% ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c01"> C 01  </a>        |   C      | 100% ✔️ |
-| Exam 01  |   C      | 32%  ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c02"> C 02 </a>         |   C      | 75%  ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c03"> C 03 </a>         |   C      | 50%  ✔️ |
-| Exam 02  |   C      | 28%  ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c04"> C 04 </a>         |   C      | 70%  ✔️ |
-| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c06"> C 06 </a>         |   C      | 70%  ✔️ |
-| Final    |   C      | 30%  ✔️ |
 
 ## Projects Content
 
@@ -83,10 +65,10 @@ The table below presents the C Piscine's curriculum completed by me.
 ``` C 01 ``` <br>
 
 <ul> 
-<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex00/ft_ft.c"> ft_ft </a> A pointer to 42. <br> </li>
-<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex01/ft_ultimate_ft.c"> ft_ultimate_ft </a> A pointer to a pointer to a pointer... to 42. <br> </li>
-<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_swap.c"> ft_swap </a> Swaps two values using a temporary variable. <br> </li>
-<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> Stores the division and modules of two values in Mod and Div variables. <br> </li>
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex00/ft_ft.c"> ft_ft </a> - A pointer to 42. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex01/ft_ultimate_ft.c"> ft_ultimate_ft </a> - A pointer to a pointer to a pointer... to 42. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_swap.c"> ft_swap </a> - Swaps two values using a temporary variable. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c01/ex02/ft_div_mod.c"> ft_div_mod </a> - Stores the division and modules of two values in Mod and Div variables. <br> </li>
 
 </ul>	
 <br> 
@@ -95,3 +77,25 @@ The table below presents the C Piscine's curriculum completed by me.
 	
 <br> 
 
+## Curriculum
+
+The table below presents the C Piscine's curriculum completed by me.
+
+| Subject  | Language | Status   |
+| :------: | :------: | :------: |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell00"> Shell 00 </a> |  Shell   | 100% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/shell01"> Shell 01 </a> |  Shell   | 100% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c00">  C 00 </a>        |   C      | 85%  ✔️ |
+| Rush 00  |   C      | 116% ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c01"> C 01  </a>        |   C      | 100% ✔️ |
+| Exam 01  |   C      | 32%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c02"> C 02 </a>         |   C      | 75%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c03"> C 03 </a>         |   C      | 50%  ✔️ |
+| Exam 02  |   C      | 28%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c04"> C 04 </a>         |   C      | 70%  ✔️ |
+| <a href="https://github.com/silvinarossatti/42Piscine/tree/master/c06"> C 06 </a>         |   C      | 70%  ✔️ |
+| Final    |   C      | 30%  ✔️ |
+
+<hr>
+
+![languages](/gitlab/languages/count/:project+?gitlab_url=https%3A%2F%2Fgitlab.com)
