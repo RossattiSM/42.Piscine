@@ -26,7 +26,8 @@ Este repositorio contiene los proyectos que realicé durante la C Piscine Bootca
 	Los primeros días de piscina están enfocados en aprender los comandos shell para navegar por la terminal.
   
 # Programación en C 
-	Es el lenguaje principal que se aprende en la piscina: creación de funciones y programas, iniciación a variables, punteros y arrays.
+	Es el lenguaje principal que se aprende en la piscina: creación de funciones y programas, 
+	iniciación a variables, punteros y arrays.
 
 # Git
 	Todos los proyectos son presentados mediante un repositorio remoto.
