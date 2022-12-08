@@ -150,6 +150,6 @@ All the functions have been tested by Moulinette.
 
 ``` Thanks for visiting and reading my content. Let's connect! ``` <br> <br>
 
-<a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
-<a href="https://github.com/silvinarossatti"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
+<a href="https://www.linkedin.com/in/rossattism/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
+<a href="https://github.com/RossattiSM"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
 
