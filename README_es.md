@@ -51,10 +51,10 @@ Este repositorio contiene los proyectos que realicé durante la C Piscine Bootca
 
 ``` C00  ``` <br> 
 <ul> 
-<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Imprime un caracter <br> </li>
-<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Imprime el alfabeto <br> </li>
-<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Imprime el alfabeto al revés <br> </li>
-<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Imprime de 0 al 9 <br> </li>
+<li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex00/ft_putchar.c"> ft_putchar </a>  - Imprime un caracter. <br> </li>
+<li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Imprime el alfabeto. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Imprime el alfabeto al revés. <br> </li>
+<li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Imprime del 0 al 9. <br> </li>
 <li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Imprime "N" si el int pasado como parámetro es negativo, sino imprime "P".<br> </li>
 <li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Imprime todas las combinaciones únicas de tres dígitos diferentes. <br> </li>
 <li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Imprime todas las combinaciones posibles de dos números diferentes de dos dígitos. <br> </li>
