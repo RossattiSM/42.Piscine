@@ -55,10 +55,10 @@ Este repositorio contiene los proyectos que realicé durante la C Piscine Bootca
 <li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_alphabet.c"> ft_print_alphabet </a> - Imprime el alfabeto. <br> </li>
 <li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_reverse_alphabet.c"> ft_print_reverse_alphabet </a> - Imprime el alfabeto al revés. <br> </li>
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_numbers.c"> ft_print_numbers </a>  - Imprime del 0 al 9. <br> </li>
-<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Imprime "N" si el int pasado como parámetro es negativo, sino imprime "P".<br> </li>
+<li> ex04: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_is_negative.c"> ft_is_negative </a> Imprime "N" si el entero pasado como parámetro es negativo, sino imprime "P".<br> </li>
 <li> ex05: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb.c"> ft_print_comb </a> - Imprime todas las combinaciones únicas de tres dígitos diferentes. <br> </li>
 <li> ex06: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex01/ft_print_comb2.c"> ft_print_comb2 </a> - Imprime todas las combinaciones posibles de dos números diferentes de dos dígitos. <br> </li>
-<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Imprime todos los dígitos de un integer. <br> </li>
+<li> ex07: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex07/ft_putnbr.c"> ft_putnbr.c </a> - Imprime todos los dígitos de un entero. <br> </li>
 <li> ex08: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c00/ex08/ft_print_combn.c"> ft_print_combn.c </a> - Imprime todas las combinaciones posibles de "n" dígitos diferentes en orden ascendente. <br> </li>
 </ul> 
 
@@ -108,7 +108,7 @@ Este repositorio contiene los proyectos que realicé durante la C Piscine Bootca
 <ul> 
 <li> ex00: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex00/ft_strlen.c"> ft_strlen </a> - Obtiene el largo de una cadena de caracteres. <br> </li>
 <li> ex01: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex01/ft_putstr.c"> ft_putstr </a> - Imprime una cadena de caracteres. <br> </li>
-<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex02/ft_putnbr.c"> ft_putnbr </a> - Imprime todos los dígitos posibles de un integer. <br> </li>
+<li> ex02: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex02/ft_putnbr.c"> ft_putnbr </a> - Imprime todos los dígitos posibles de un entero. <br> </li>
 <li> ex03: <a href="https://github.com/silvinarossatti/42Piscine/blob/master/c04/ex03/ft_atoi.c"> ft_atoi </a> - Convierte una cadena de caracteres en un entero. <br> </li>
 </ul>
 
