@@ -43,7 +43,7 @@ Este repositorio contiene los proyectos que realicé durante la C Piscine Bootca
 	En un entorno peer to peer podés contar con tus compañeros y ellos también pueden contar contigo.
   
 # Resiliencia
-	Aprender a "nadar" entre la gran, y a veces críptica, cantidad de trabajo es parte del proceso.
+	Parte del proceso es aprender a "nadar" entre la gran, y a veces críptica, cantidad de trabajo.
 ```
 
 
