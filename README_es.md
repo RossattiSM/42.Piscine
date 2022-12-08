@@ -1,4 +1,4 @@
-Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> or <a href="https://github.com/RossattiSM/42Piscine/blob/master/README_es.md"> ES </a>
+Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> o <a href="https://github.com/RossattiSM/42Piscine/blob/master/README_es.md"> ES </a>
 <hr>
 
 <p align="center"> 
