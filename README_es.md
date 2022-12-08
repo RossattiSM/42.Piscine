@@ -13,7 +13,7 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 </p>
 
 # C Piscine
-Este repositorio contiene los projectos que realicé durante la C Piscine Bootcamp de 42 Málaga, desde el ```17/Oct/2022``` hasta el ```11/Nov/2022.```
+Este repositorio contiene los proyectos que realicé durante la C Piscine Bootcamp de 42 Málaga, desde el ```17/Oct/2022``` hasta el ```11/Nov/2022.```
 
 ## Sobre 42
 
