@@ -1,22 +1,15 @@
-Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> o <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> ES </a>
-<hr>
-
 <p align="center"> 
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
 </p>
 
-<hr>
-<p align="center">
-<img src="https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge" alt="size badge">
-<img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
+<p align="center"> 
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> 
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a><br />
+<i> Proyectos realizados durante el C Piscine Bootcamp de 42 Málaga, desde el <code>17/Oct/2022</code> hasta el <code>11/Nov/2022.</code> </i>
 </p>
 
-<p align="center">
-<b> <i> Proyectos realizados durante el C Piscine Bootcamp de 42 Málaga, desde el <code>17/Oct/2022</code> hasta el <code>11/Nov/2022.</code> </i> </b>
-</p>
 
-## Sobre 42
+<h1 align="center"> 42Piscine </h1>
 
 >42 es una iniciativa global de educación que propone una nueva forma de aprender tecnología: sin maestros, sin aulas, un aprendizaje entre compañeros  con una >metodología que desarrolla habilidades tanto computacionales como de vida. El Cursus 42 es gratis para quien apruebe el proceso de selección. La "C Piscine", un >bootcamp de 26 días intensivos de programación, es parte del proceso para convertirse en estudiante.
 
@@ -25,13 +18,13 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 ```
 # Shell
 	Los primeros días de piscina están enfocados en aprender los comandos shell para navegar por la terminal.
-  
+	
 # Programación en C 
 	Es el lenguaje principal que se aprende en la piscina: creación de funciones y programas, 
 	iniciación a variables, punteros y arrays.
 
 # Git
-	Todos los proyectos son presentados mediante un repositorio remoto.
+	Todos los proyectos son presentados mediante un repositorio remoto.	
 ```
 
 ## Habilidades blandas
