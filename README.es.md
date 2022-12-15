@@ -138,8 +138,5 @@ La tabla de abajo presenta el curriculum de la piscina completado por mí.
 Todas las funciones fueron testeadas por Moulinette.
 
 <hr>
-
-``` Gracias por visitar y leer mi contenido. Conectemos! ``` <br><br>
-<a href="https://www.linkedin.com/in/rossattism/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
-<a href="https://github.com/RossattiSM"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
-
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
+<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <i> ✨ creado por Silvina M. Rossatti </i> &nbsp
