@@ -2,7 +2,7 @@ Select your preferred language: <a href="https://github.com/RossattiSM/42Piscine
 <hr>
 
 <p align="center"> 
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="200px" length="200px" /> 
+	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
 </p>
 
 <hr>
