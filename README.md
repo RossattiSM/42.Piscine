@@ -8,7 +8,7 @@ Select your preferred language: <a href="https://github.com/RossattiSM/42Piscine
 <hr>
 <p align="center">
 <img src="https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/license/RossattiSM/42Piscine?style=for-the-badge" alt="MIT license badge">
+<img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
 <img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge" alt="size badge">
 </p>
 
