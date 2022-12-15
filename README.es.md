@@ -2,7 +2,7 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 <hr>
 
 <p align="center"> 
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="200px" length="200px" /> 
+	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
 </p>
 
 <hr>
@@ -12,12 +12,13 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 <img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
 </p>
 
-# C Piscine
-Este repositorio contiene los proyectos que realicé durante la C Piscine Bootcamp de 42 Málaga, desde el ```17/Oct/2022``` hasta el ```11/Nov/2022.```
+<p align="center">
+<b> <i> Proyectos realizados durante el C Piscine Bootcamp de 42 Málaga, desde el <code>17/Oct/2022</code> hasta el <code>11/Nov/2022.</code> </i> </b>
+</p>
 
 ## Sobre 42
 
-42 es una iniciativa global de educación que propone una nueva forma de aprender tecnología: sin maestros, sin aulas, un aprendizaje entre compañeros  con una metodología que desarrolla habilidades tanto computacionales como de vida. El Cursus 42 es gratis para quien apruebe el proceso de selección. La "C Piscine", un bootcamp de 26 días intensivos de programación, es parte del proceso para convertirse en estudiante.
+>42 es una iniciativa global de educación que propone una nueva forma de aprender tecnología: sin maestros, sin aulas, un aprendizaje entre compañeros  con una >metodología que desarrolla habilidades tanto computacionales como de vida. El Cursus 42 es gratis para quien apruebe el proceso de selección. La "C Piscine", un >bootcamp de 26 días intensivos de programación, es parte del proceso para convertirse en estudiante.
 
 ## Habilidades duras
 
