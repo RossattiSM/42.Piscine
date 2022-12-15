@@ -12,15 +12,16 @@ Select your preferred language: <a href="https://github.com/RossattiSM/42Piscine
 <img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
 </p>
 
-# C Piscine
-This repository contains the projects I made during the C Piscine Bootcamp in 42 Málaga, from ```Oct/17/2022``` to ```Nov/11/2022.```
+<p align="center">
+<b> <i> Projects developed during the C Piscine Bootcamp in 42 Malaga, from <code>Oct/17/2022</code> to <code>Nov/11/2022.</code> </i> </b>
+</p>
 
 ## About 42
 
-42 is a global education initiative that proposes a new way of learning technology: no teachers,
-no classrooms, peer to peer learning with a methodology that develops both computing and life skills. 
-The 42 cursus is free for whoever is approved in its selection process. The "C Piscine", a 26-day C programming bootcamp,
-is the selection process for becoming a former student.
+> 42 is a global education initiative that proposes a new way of learning technology: no teachers,
+> no classrooms, peer to peer learning with a methodology that develops both computing and life skills. 
+> The 42 cursus is free for whoever is approved in its selection process. The "C Piscine", a 26-day C programming bootcamp,
+> is the selection process for becoming a former student.
 
 ## Hard Skills
 
