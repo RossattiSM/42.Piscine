@@ -5,7 +5,7 @@
 </p>
 
 <p align="center"> 
-<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md" target="_blank"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a>
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a>
 <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> <br />
 <i> Projects developed during the C Piscine Bootcamp in 42 Malaga, from <code>Oct/17/2022</code> to <code>Nov/11/2022.</code> </i> <br />
 <b> Content: </b> 
