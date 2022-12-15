@@ -1,15 +1,25 @@
+<h1 align="center"> 42Piscine </h1>
+
 <p align="center"> 
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
 </p>
 
 <p align="center"> 
-<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> 
-<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a><br />
-<i> Proyectos realizados durante el C Piscine Bootcamp de 42 Málaga, desde el <code>17/Oct/2022</code> hasta el <code>11/Nov/2022.</code> </i>
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a>
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> <br />
+<i> Proyectos realizados durante el C Piscine Bootcamp de 42 Málaga, desde el <code>17/Oct/2022</code> hasta el <code>11/Nov/2022.</code> </i><br />
+<b> Content: </b> 
+&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/shell00"> shell00</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/shell01"> shell01</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/c00"> c00</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/c01"> c01</a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c02"> c02 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c03"> c03 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c04"> c04 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c06"> c06 </a>
 </p>
 
-
-<h1 align="center"> 42Piscine </h1>
+## Sobre 42
 
 >42 es una iniciativa global de educación que propone una nueva forma de aprender tecnología: sin maestros, sin aulas, un aprendizaje entre compañeros  con una >metodología que desarrolla habilidades tanto computacionales como de vida. El Cursus 42 es gratis para quien apruebe el proceso de selección. La "C Piscine", un >bootcamp de 26 días intensivos de programación, es parte del proceso para convertirse en estudiante.
 
