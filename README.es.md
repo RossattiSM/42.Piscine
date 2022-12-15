@@ -1,4 +1,4 @@
-Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> o <a href="https://github.com/RossattiSM/42Piscine/blob/master/README_es.md"> ES </a>
+Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> o <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> ES </a>
 <hr>
 
 <p align="center"> 
@@ -146,6 +146,6 @@ Todas las funciones fueron testeadas por Moulinette.
 <hr>
 
 ``` Gracias por visitar y leer mi contenido. Conectemos! ``` <br><br>
-<a href="https://www.linkedin.com/in/silvinarossatti/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
-<a href="https://github.com/silvinarossatti"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
+<a href="https://www.linkedin.com/in/rossattism/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
+<a href="https://github.com/RossattiSM"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
 
