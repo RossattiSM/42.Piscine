@@ -8,8 +8,8 @@ Selecciona el lenguaje de tu preferencia: <a href="https://github.com/RossattiSM
 <hr>
 <p align="center">
 <img src="https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/directory-file-count/silvinarossatti/42Piscine?style=for-the-badge" alt="files badge">
 <img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge" alt="size badge">
+<img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
 </p>
 
 # C Piscine
