@@ -1,22 +1,14 @@
-Select your preferred language: <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> EN </a> or <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> ES </a>
-<hr>
-
 <p align="center"> 
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
 </p>
 
-<hr>
-<p align="center">
-<img src="https://img.shields.io/github/languages/count/silvinarossatti/42Piscine?style=for-the-badge" alt="langauge badge">
-<img src="https://img.shields.io/github/languages/code-size/silvinarossatti/42Piscine?style=for-the-badge" alt="size badge">
-<img src="https://img.shields.io/github/license/RossattiSM/42Piscine?color=blue&style=for-the-badge" alt="MIT license badge">
+<p align="center"> 
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> 
+<a href="https://github.com/RossattiSM/42Piscine/blob/master/README.md"> <img src="https://img.shields.io/badge/lang-en-black" alt="english language badge"></a><br />
+<i> Projects developed during the C Piscine Bootcamp in 42 Malaga, from <code>Oct/17/2022</code> to <code>Nov/11/2022.</code> </i>
 </p>
 
-<p align="center">
-<b> <i> Projects developed during the C Piscine Bootcamp in 42 Malaga, from <code>Oct/17/2022</code> to <code>Nov/11/2022.</code> </i> </b>
-</p>
-
-## About 42
+<h1 align="center"> 42Piscine </h1>
 
 > 42 is a global education initiative that proposes a new way of learning technology: no teachers,
 > no classrooms, peer to peer learning with a methodology that develops both computing and life skills. 
@@ -148,9 +140,5 @@ The table below presents the C Piscine's curriculum completed by me.
 All the functions have been tested by Moulinette.
 
 <hr>
-
-``` Thanks for visiting and reading my content. Let's connect! ``` <br> <br>
-
-<a href="https://www.linkedin.com/in/rossattism/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"> </a>
-<a href="https://github.com/RossattiSM"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge"> </a>
-
+<a href="https://www.linkedin.com/in/rossattism/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin Logo" style="width: 16px; height: 16px" /></a> &nbsp | &nbsp
+<a href="https://github.com/RossattiSM"><img src="https://skillicons.dev/icons?i=github" alt="GitHub logo" style="width: 16px; height: 16px" /></a>  &nbsp | &nbsp <i> ✨ made by Silvina M. Rossatti </i> &nbsp
