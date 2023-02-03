@@ -1,4 +1,4 @@
-<h1 align="center"> 42Piscine </h1>
+<h1 align="center"> 42 C Piscine </h1>
 
 <p align="center"> 
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" alt="C language gif" height="150px" length="150px" /> 
@@ -9,14 +9,14 @@
 <a href="https://github.com/RossattiSM/42Piscine/blob/master/README.es.md"> <img src="https://img.shields.io/badge/lang-es-black" alt="spanish language badge"></a> <br />
 <i> Projects developed during the C Piscine Bootcamp in 42 Malaga, from <code>Oct/17/2022</code> to <code>Nov/11/2022.</code> </i> <br />
 <b> Content: </b> 
-&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/shell00"> shell00</a> &nbsp - 
-&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/shell01"> shell01</a> &nbsp - 
-&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/c00"> c00</a> &nbsp - 
-&nbsp <a href="https://github.com/RossattiSM/42Piscine/tree/master/c01"> c01</a> &nbsp - 
-&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c02"> c02 </a> &nbsp - 
-&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c03"> c03 </a> &nbsp - 
-&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c04"> c04 </a> &nbsp - 
-&nbsp  <a href="https://github.com/RossattiSM/42Piscine/tree/master/c06"> c06 </a>
+&nbsp <a href="https://github.com/RossattiSM/42.Piscine/tree/master/shell00"> shell00</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42.Piscine/tree/master/shell01"> shell01</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c00"> c00</a> &nbsp - 
+&nbsp <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c01"> c01</a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c02"> c02 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c03"> c03 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c04"> c04 </a> &nbsp - 
+&nbsp  <a href="https://github.com/RossattiSM/42.Piscine/tree/master/c06"> c06 </a>
 </p>
 
 ## About
